@@ -5,4 +5,4 @@ modo de uso: git clone https://
 
 cd rastreador-dns
 
-python rastreadorip.py
+python consultaip.py
